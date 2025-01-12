@@ -28,7 +28,3 @@
 📫 **Contact**:  
 Feel free to reach out for collaboration, feedback, or opportunities!  
 Email: [endrit.kaskija@gmail.com]  
-
----
-
-✨ *"Coding is not just a skill; it's a superpower that brings ideas to life."*
