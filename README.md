@@ -19,12 +19,6 @@
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Endrit%20Kaskija-blue?logo=linkedin)](https://www.linkedin.com/in/endrit-kaskija-0b842b255/)  
-[![GitHub](https://img.shields.io/badge/GitHub-EndriuK-lightgrey?logo=github)](https://github.com/EndriuK)  
-
----
-
 📫 **Contact**:  
 Feel free to reach out for collaboration, feedback, or opportunities!  
 Email: [endrit.kaskija@gmail.com]  
