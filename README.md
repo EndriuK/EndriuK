@@ -19,15 +19,6 @@
 
 ---
 
-## 🛠️ Projects  
-### [Project 1: Comics Manager](https://github.com/EndriuK/your-comics-repo)  
-A Laravel app for managing comics collections with CRUD functionality and Bootstrap styling.  
-
-### [Project 2: Real Estate Tracker](https://github.com/EndriuK/your-realestate-repo)  
-A Vue.js and Laravel-powered app for tracking and filtering properties, with an integrated TomTom map.  
-
----
-
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Endrit%20Kaskija-blue?logo=linkedin)](https://www.linkedin.com/in/endrit-kaskija-0b842b255/)  
 [![GitHub](https://img.shields.io/badge/GitHub-EndriuK-lightgrey?logo=github)](https://github.com/EndriuK)  
