@@ -27,5 +27,4 @@
 ---
 
 📫 **Contact**:  
-Feel free to reach out for collaboration, feedback, or opportunities!  
-Email: [endrit.kaskija@gmail.com]  
+Feel free to reach out for collaboration, feedback, or opportunities!    
